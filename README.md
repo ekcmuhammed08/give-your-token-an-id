@@ -1,1 +1,1 @@
-# solana-npx-client-template
+# solana-give-your-token-an-id
